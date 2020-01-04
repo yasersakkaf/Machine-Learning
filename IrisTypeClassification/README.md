@@ -1,6 +1,6 @@
 # Problem Statement:
 
-Predicted class of iris plant.
+Predict the class of iris plant.
 
 ## Data:
 
