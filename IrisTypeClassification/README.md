@@ -17,4 +17,4 @@ Comma separated Elements in data.txt are
 * Iris Versicolour
 * Iris Virginica
 
-##### Note: In IrisClassificationProblemAttempt-1.ipynb the visualizations are not visible here but if you run the the cell (cell no. 7 in particular) you will be able to see the visualizations. 
+##### Note: In IrisClassificationProblemAttempt-1.ipynb the visualizations by pandas-profiling  are not visible here (still don't know why) but if you run all cells in sequence you will be able to see the visualizations after cell no. 7. 
