@@ -1,3 +1,3 @@
 # Machine Learning
 
-### This repository contains some Machine Learning Problems to practice.
+### A repository that provides Machine Learning Problems for practice.
