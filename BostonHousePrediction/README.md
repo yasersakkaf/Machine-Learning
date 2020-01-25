@@ -1,8 +1,10 @@
 ## Problem Statement
 A regression problem to predict the price of homes based on certain features.
- 
+
+
 #### Data 
 Another popular dataset that comes from the real estate industry in Boston (US). The data has 506 rows and 14 columns. 
+
 
 #### Columns Description
 | Variable | Description |
@@ -21,6 +23,7 @@ Another popular dataset that comes from the real estate industry in Boston (US).
 | B | 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town |
 | LSTAT | % lower status of the population |
 | MEDV |  Median value of owner-occupied homes in $1000's |
+
 
 #### Evaluation Metric:
 RMSE - Root Mean Square Error
